@@ -35,7 +35,7 @@
 # Idris source file
 *.idr linguist-detectable=true
 *.idr linguist-documentation=false
-*.idr linguist-language=Idirs
+*.idr linguist-language=Idris
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -174,6 +174,6 @@
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 3 (2022, Saturday, October 1st at 3:21 pm PST)
+# File version: 4 (2022, Saturday, October 1st at 3:22 pm PST)
 # Line count (including blank lines and compiler line): 180
 # End of script
